@@ -2420,7 +2420,7 @@ body {
 }
 .cid-quskcin43N {
   padding-top: 15px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #3a3738;
 }
 @media (max-width: 767px) {
@@ -2490,6 +2490,7 @@ body {
 }
 .cid-quskcin43N P {
   color: #ffffff;
+  text-align: right;
 }
 .cid-quskcgFGlD .navbar {
   padding: .5rem 0;
